@@ -98,5 +98,3 @@ test('Greting massage should be correct for city', () => {
     expect(massage).toBe("Hello New York citizens. I want you be happy. All 1000000 men"); 
 }) 
 
-
-
