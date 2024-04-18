@@ -1,5 +1,3 @@
-import { type } from 'os';
-import { getTsBuildInfoEmitOutputFilePath } from 'typescript';
 import { CityType } from '../02/02_02';
 import { demoLishHousesOnTheStreet, getBuildingsWithStaffCountGreater } from './04_2';
 
