@@ -1,7 +1,7 @@
 type ManType  = {  
       name: "Serega",
       age: number,
-      lessons: Array<{title: string}> 
+      lessons: Array<{title: string, name?: "react" } >,   
       address: {
           street: {
              title: "Independence street" 
